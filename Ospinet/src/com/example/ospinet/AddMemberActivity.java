@@ -20,7 +20,6 @@ import android.widget.TableRow;
 import android.widget.TextView;
 
 
-
 public class AddMemberActivity extends Activity implements OnItemSelectedListener {
 	
 	public Button btn_age,btn_dob,btn_unborn;
@@ -32,6 +31,7 @@ public class AddMemberActivity extends Activity implements OnItemSelectedListene
 	        super.onCreate(savedInstanceState);
 	        setContentView(R.layout.addmember);
 	        /*Add Member Button*/
+	      
 		     Button btn_addm=(Button)findViewById(R.id.btn_Addmember);
 		     btn_addm.setOnClickListener(new View.OnClickListener() {
 		    	 

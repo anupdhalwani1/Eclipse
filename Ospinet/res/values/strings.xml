@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Ospinet Medical</string>
-     <string name="LoginPageName">Ospinet Medical >> Login</string>
+     <string name="LoginPageName">Ospinet Medical >> Login or create account for Free</string>
      <string name="MemberPageName">Ospinet Medical >> Member</string>
      <string name="ContcatPageName">Ospinet Medical >> Contcat</string>
      <string name="SignupPageName">Ospinet Medical >> SignUp</string>
